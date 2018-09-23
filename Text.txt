@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi my name is Abhishek Singh.Stay in New ashok nagar.Working as a softawre engineer.
+=======
+Hi my name is Abhishek Singh.I am software engineer.
+>>>>>>> e21623bffb2bd7e0b90f78627a1e1625cf63ace0
